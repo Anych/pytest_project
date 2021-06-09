@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c77bccd-2bcd-404c-af1e-85ed5ad2ed53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_pytest/companies/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_pytest/companies/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_pytest/companies/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_pytest/companies/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_pytest/companies/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
