@@ -8,6 +8,12 @@ pytest = "*"
 django = "*"
 djangorestframework = "*"
 black = "*"
+pytest-django = "*"
+python-decouple = "*"
+pytest-xdist = "*"
+requests = "*"
+responses = "*"
+allure-pytest = "*"
 
 [dev-packages]
 

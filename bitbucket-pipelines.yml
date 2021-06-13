@@ -1,0 +1,13 @@
+image: python:3.9.5
+
+pipelines:
+  default:
+    - step:
+        name: API pytest
+        caches:
+          - pip
+        script:
+          - pip install pipenv --upgrade
+          - pipenv install --system
+          - export DJANGO_SETTINGS_MODULE="my_pytest.settings"
+          - pytest pytest_project/my_pytest -s -v --durations=0 --cov=. -m "not skip_in_ci"
